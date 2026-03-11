@@ -1,0 +1,20 @@
+stat,n
+speciesTotal,3225
+speciesValid,375
+speciesSynonyms,2850
+server,fishbase
+serverVersion,24.07
+wormsVersion,25.12
+specieslistILVO,BeFishingFleet-Fish_1978-2025.csv
+specieslistVersion,20251209
+genbankVersion,268
+databaseVersion,20251210
+date,10 Dec 2025
+uniqueQueries,3225
+maxBatchLength,2000
+numberBatches,461
+cores,4
+batchesPerCore,116
+maxRecordsByBatch,22517
+totalRecordsGenbank,722823
+totalRecordsBold,13050

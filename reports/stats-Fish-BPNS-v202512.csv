@@ -1,0 +1,19 @@
+stat,n
+speciesTotal,1586
+speciesValid,159
+speciesSynonyms,1427
+server,fishbase
+serverVersion,24.07
+specieslistILVO,BPNS-Fish_1978-2025.csv
+specieslistVersion,20251209
+genbankVersion,268
+databaseVersion,20251209
+date,09 Dec 2025
+uniqueQueries,1586
+maxBatchLength,2000
+numberBatches,227
+cores,4
+batchesPerCore,57
+maxRecordsByBatch,22341
+totalRecordsGenbank,549015
+totalRecordsBold,7311
