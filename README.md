@@ -5,7 +5,7 @@
 ## Description
 
 This repository contains the reference databases used for the taxonomic assignment of DNA metabarcoding data. 
-We created two reference databases for two specific regions, the Belgian Part of the North Sea (BPNS) and the area where the Belgian fishing fleet is active (BeFishingFleet) which contains reference sequences for species occurring in Belgium, the United Kingdom and the Netherlands. For each region a reference database was create for fish (Fish) and invertebrate (Inv)species.
+We created two reference databases for two specific regions, the Belgian Part of the North Sea (BPNS) and the area where the Belgian fishing fleet is active (BeFishingFleet) which contains reference sequences for species occurring in Belgium, the United Kingdom and the Netherlands. For each region a reference database was create for fish (Fish) and invertebrate (Inv) species.
 At the end of each year the reference databases will be updated.
 
 ## Map order
